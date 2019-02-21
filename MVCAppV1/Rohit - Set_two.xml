@@ -1,0 +1,90 @@
+<questions>  
+  <question>
+        <category>Quotes</category>
+        <text>In SAP Concur, what does GDPR stand for?</text>
+        <a correct="no">General Department of Public Roads</a>
+        <b correct="no">Good Die Per Rail</b>
+        <c correct="yes">General Data Protection Regulation</c>
+        <d correct="no">Graphic Design for Print Web</d>
+    </question>
+    <question>
+        <category>Quotes</category>
+        <text>What was the name of Renuka Shahanes dog in Hum Aapke Hain Koun?</text>
+        <a correct="no">Tommy</a>
+        <b correct="no">Tiffy</b>
+        <c correct="no">Timmy</c>
+        <d correct="yes">Tuffy</d>
+    </question>
+    <question>
+        <category>Quotes</category>
+        <text>March 22 is observed as?</text>
+        <a correct="no">World Consumer Rights Day</a>
+        <b correct="yes">World Water Day</b>
+        <c correct="no">International Day of Forests</c>
+        <d correct="no">World Sparrow Day</d>
+    </question>
+    <question>
+        <category>Quotes</category>
+        <text>The Union government will launch SAMPADA Scheme for which sector?</text>
+        <a correct="yes">Food processing</a>
+        <b correct="no">Mining</b>
+        <c correct="no">Education</c>
+        <d correct="no">Tourism</d>
+    </question>
+    <question>
+        <category>Quotes</category>
+        <text>On which actor was the song Chhodo kal ki baatein from Hum Hindustani filmed?</text>
+        <a correct="no">Dilip Kumar</a>
+        <b correct="no">Manoj Kumar</b>
+        <c correct="no">Sanjeev Kumar </c>
+        <d correct="yes">Sunil Dutt</d>
+    </question>
+    <question>
+        <category>Quotes</category>
+        <text>Indias first methanol-based alternative cooking fuel is to be established in which state?</text>
+        <a correct="no">Tamil Naidu</a>
+        <b correct="no">Rajasthan</b>
+        <c correct="yes">Assam</c>
+        <d correct="no">Himachal Pradesh</d>
+    </question>
+    <question>
+        <category>Quotes</category>
+        <text>When did the construction of Statue of Unity commence?</text>
+        <a correct="yes">31 October 2014</a>
+        <b correct="no">26 October 2013</b>
+        <c correct="no">7 December 2014</c>
+        <d correct="no">15 October 2015</d>
+    </question>
+   <question>
+        <category>Quotes</category>
+        <text>Who was the first British actor to win an Oscar and in which year?</text>
+        <a correct="no">Christian Bale in 2013</a>
+        <b correct="yes">David Niven in 1958</b>
+        <c correct="no">Idris Elba in 2001</c>
+        <d correct="no">Michael Caine in 1980</d>
+    </question>
+	<question>
+        <category>Quotes</category>
+        <text>Which two counties did Kapil Dev play cricket for apart from Team India?</text>
+        <a correct="no">Northamptonshire and Warwickshire</a>
+        <b correct="no">Nottinghamshire and Worcestershire</b>
+        <c correct="yes">Northamptonshire and Worcestershire</c>
+        <d correct="no">Nottinghamshire and Warwickshire</d>
+    </question>
+	<question>
+        <category>Quotes</category>
+        <text>The nickname of Glenn McGrath is what?</text>
+        <a correct="no">Ooh Ahh</a>
+        <b correct="yes">Pigeon</b>
+        <c correct="no">Penguin</c>
+        <d correct="no">Tall Bird</d>
+    </question>
+	<question>
+        <category>Quotes</category>
+        <text>The members of the state legislative assemblies are elected for a period of?</text>
+        <a correct="no">2 years</a>
+        <b correct="no">6 years</b>
+        <c correct="yes">5 years</c>
+        <d correct="no">3 years</d>
+    </question>
+</questions>
